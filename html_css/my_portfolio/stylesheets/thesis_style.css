@@ -1,0 +1,18 @@
+p {
+	font-family: 'Open Sans';
+}
+h1,h2 {
+	font-family: 'Roboto';
+}
+.red {
+	font-family: 'Condiment';
+}
+h1 {
+	text-transform: uppercase;
+}
+.sub {
+	font-size: 10px;
+}
+.sub:hover {
+	color:red;
+}
